@@ -1,6 +1,6 @@
-Footcap - Find your footware
+LaceUp - Find your footware
 
-alt = Footcap logo
+alt = LaceUp logo
 
 aria-label = Open Menu
 <ion-icon name="menu-outline"></ion-icon>
@@ -8,12 +8,11 @@ aria-label = Open Menu
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
-alt = Footcap logo
+alt = LaceUp logo
 
 Home
 About
 Products
-Shop
 Blog
 Contact
 
@@ -140,15 +139,6 @@ Nike Shoes
 Makes Yourself Keep Sporty
 
 
-
-# SPECIAL
-
-New Trend Edition
-
-Explore All
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-
-Nike Special
 
 
 
